@@ -66,13 +66,13 @@ Order Count by Payment Installments: Counted orders based on the number of payme
      Query: See `queries/6_payment_type_analysis.sql`
 
 Key Insights [cite: 134, 135, 136, 137, 138, 139]
- A small percentage of total orders, specifically around 1.2%, were either unavailable (609 orders) or canceled (625 orders). [cite: 134]
- The e-commerce business in Brazil is experiencing rapid growth, indicated by an abrupt increase in order volume. [cite: 135, 136, 137]
- Brazilian customers tend to place most of their orders in the afternoon and at night. [cite: 91]
- There isn't a clear monthly seasonality in order placement; however, there are significant spikes in orders in different months. [cite: 86]
- Business is generally on an uptrend, with sharp month-over-month order spikes. [cite: 87]
- A significant portion of customer dissatisfaction (low ratings) is concentrated in specific states. [cite: 138, 139]
- Only three states contribute to the maximum order volume, suggesting a concentration of business activity. [cite: 142]
+1. A small percentage of total orders, specifically around 1.2%, were either unavailable (609 orders) or canceled (625 orders). [cite: 134]
+2. The e-commerce business in Brazil is experiencing rapid growth, indicated by an abrupt increase in order volume. [cite: 135, 136, 137]
+3. Brazilian customers tend to place most of their orders in the afternoon and at night. [cite: 91]
+4. There isn't a clear monthly seasonality in order placement; however, there are significant spikes in orders in different months. [cite: 86]
+5. Business is generally on an uptrend, with sharp month-over-month order spikes. [cite: 87]
+6. A significant portion of customer dissatisfaction (low ratings) is concentrated in specific states. [cite: 138, 139]
+7. Only three states contribute to the maximum order volume, suggesting a concentration of business activity. [cite: 142]
 
 Recommendations [cite: 141, 142, 143]
 1.  Workforce Optimization: Given that Brazilian customers primarily place orders in the afternoon and at night, consider increasing staff during these peak hours to better manage customer requests and services. This could involve reallocating workforce from morning and dawn shifts. [cite: 141]
