@@ -40,9 +40,9 @@ This section explored regional order patterns.
 This section focused on financial aspects like order prices and freight.
  Percentage Increase in Order Cost (2017-2018):** Calculated the year-on-year percentage increase in the total cost of delivered orders (January to August only) using `payment_value`.
      Query: See `queries/4_impact_on_economy.sql`
- Total and Average Order Price per State:** Computed the total and average order price for each state.
+ Total and Average Order Price per State: Computed the total and average order price for each state.
      Query: See `queries/4_impact_on_economy.sql`
- Total and Average Order Freight per State:** Computed the total and average order freight value for each state.
+ Total and Average Order Freight per State: Computed the total and average order freight value for each state.
      Query: See `queries/4_impact_on_economy.sql`
 
 5. Analysis Based on Sales, Freight, and Delivery Time
@@ -51,9 +51,9 @@ This section focused on delivery metrics.
      Query: See `queries/5_sales_freight_delivery_analysis.sql`
  Estimated vs. Actual Delivery Difference:** Calculated the difference in days between the estimated and actual delivery dates.
      Query: See `queries/5_sales_freight_delivery_analysis.sql`
- Top 5 States - Highest & Lowest Average Freight Value:** Identified states with the highest and lowest average freight values.
+ Top 5 States - Highest & Lowest Average Freight Value: Identified states with the highest and lowest average freight values.
      Query: See `queries/5_sales_freight_delivery_analysis.sql`
- Top 5 States - Highest & Lowest Average Delivery Time:** Identified states with the longest and shortest average delivery times.
+ Top 5 States - Highest & Lowest Average Delivery Time: Identified states with the longest and shortest average delivery times.
      Query: See `queries/5_sales_freight_delivery_analysis.sql`
  Top 5 States - Fastest & Lowest Delivery Compared to Estimated: Identified states with the fastest and slowest delivery compared to the estimated date (i.e., delivery ahead/behind schedule).
      Query: See `queries/5_sales_freight_delivery_analysis.sql`
