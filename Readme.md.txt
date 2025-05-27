@@ -77,7 +77,7 @@ Key Insights [cite: 134, 135, 136, 137, 138, 139]
 Recommendations [cite: 141, 142, 143]
 1.  Workforce Optimization: Given that Brazilian customers primarily place orders in the afternoon and at night, consider increasing staff during these peak hours to better manage customer requests and services. This could involve reallocating workforce from morning and dawn shifts. [cite: 141]
 2.  Logistics Improvement: States with consistently high average delivery times may require improved logistics and delivery infrastructure to enhance customer satisfaction. [cite: 136, 143]
-3.  Market Expansion & Customer Satisfaction Focus:**
+3.  Market Expansion & Customer Satisfaction Focus:
      A detailed study is needed to understand the reasons behind the low order volume from the majority of states, as only three states contribute significantly to overall volume. [cite: 142, 143]
      High delivery times could be a contributing factor to low order volumes in these states, and efforts should be made to address this. [cite: 143]
      Further investigation is crucial to understand the root causes of customer dissatisfaction in the states where low ratings are prevalent. [cite: 139]
